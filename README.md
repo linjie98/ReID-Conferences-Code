@@ -15,7 +15,7 @@ Contributions are strongly welcomed, you are encouraged to submit issues and Pul
 ```
 #### 论文标题
  - 论文链接：[链接](链接)
- - 论文代码：[链接)
+ - 论文代码：[链接](链接)
  - 论文主要贡献：
     - ...
     - ...
@@ -24,7 +24,7 @@ Contributions are strongly welcomed, you are encouraged to submit issues and Pul
 ```
 #### Paper title
  - Paper link：[link](link)
- - Paper code：[link)
+ - Paper code：[link](link)
  - The main contribution of the paper：
     - ...
     - ...
